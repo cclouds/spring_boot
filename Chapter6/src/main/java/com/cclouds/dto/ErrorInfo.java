@@ -1,7 +1,7 @@
 package com.cclouds.dto;
 
 /**
- * Description:
+ * Description:Spring Boot统一异常处理
  *
  * @author cclouds
  * @Date Create on 2017/3/29

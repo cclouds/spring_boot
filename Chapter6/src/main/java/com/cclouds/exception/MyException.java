@@ -1,7 +1,7 @@
 package com.cclouds.exception;
 
 /**
- * Description:统一异常处理
+ * Description:	Spring Boot统一异常处理
  *
  * @author cclouds
  * @Date Create on 2017/3/29
