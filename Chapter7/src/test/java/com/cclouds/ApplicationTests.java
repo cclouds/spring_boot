@@ -10,7 +10,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /**
- * Description:
+ * Description:Spring Boot整合JdbcTemplate
  *
  * @author cclouds
  * @Date Create on 2017/3/29

@@ -5,7 +5,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
 
 /**
- * Description:
+ * Description:Spring Boot整合JdbcTemplate
  *
  * @author cclouds
  * @Date Create on 2017/3/29
