@@ -8,7 +8,7 @@ import io.swagger.annotations.*;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Description:
+ * Description:Spring Boot中使用Swagger2构建API
  *
  * @author cclouds
  * @Date Create on 2017/3/29

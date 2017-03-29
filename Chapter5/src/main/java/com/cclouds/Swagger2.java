@@ -11,7 +11,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * Description:
+ * Description:Spring Boot中使用Swagger2构建API
  *
  * @author cclouds
  * @Date Create on 2017/3/29

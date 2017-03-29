@@ -3,7 +3,7 @@ package com.cclouds.domain;
 
 
 /**
- * Description:Spring_Boot中使用Swagger2构建API
+ * Description:Spring Boot中使用Swagger2构建API
  *
  * @author cclouds
  * @Date Create on 2017/3/29
