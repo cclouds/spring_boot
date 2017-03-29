@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Description:
+ * Description:Spring Boot集成velocity
  *
  * @author cclouds
  * @Date Create on 2017/3/29

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Description:spring_boot集成velocity
+ * Description:Spring Boot集成velocity
  *
  * @author cclouds
  * @Date Create on 2017/3/29
