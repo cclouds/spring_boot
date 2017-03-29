@@ -11,7 +11,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 
 /**
- * Description:
+ * Description:Spring Boot自定义属性和配置文件
  *
  * @author cclouds
  * @Date Create on 2017/3/29

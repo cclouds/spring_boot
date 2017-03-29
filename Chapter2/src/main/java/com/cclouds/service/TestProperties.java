@@ -4,13 +4,12 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 /**
- * Description:
+ * Description:Spring Boot自定义属性和配置文件
  *
  * @author cclouds
  * @Date Create on 2017/3/29
  * @since version1.0
  */
-
 @Component
 public class TestProperties {
 
