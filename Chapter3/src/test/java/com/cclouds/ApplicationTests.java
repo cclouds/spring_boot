@@ -19,7 +19,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 
 
 /**
- * Description:
+ * Description:Spring Boot集成freemarker
  *
  * @author cclouds
  * @Date Create on 2017/3/29
