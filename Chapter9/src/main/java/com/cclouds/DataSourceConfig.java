@@ -1,4 +1,4 @@
-package com.didispace;
+package com.cclouds;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder;
@@ -11,10 +11,11 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import javax.sql.DataSource;
 
 /**
- * @author 程序猿DD
- * @version 1.0.0
- * @date 16/3/26 下午9:11.
- * @blog http://blog.didispace.com
+ * Description:Spring Boot 多数据源配置
+ *
+ * @author cclouds
+ * @Date Create on 2017/3/29
+ * @since version1.0
  */
 @Configuration
 public class DataSourceConfig {
