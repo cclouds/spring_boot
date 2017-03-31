@@ -5,3 +5,8 @@
 2017-03-31 13:15:08,271  INFO ApplicationTests:24 ---- 输出info
 2017-03-31 13:15:08,272 DEBUG ApplicationTests:25 ---- 输出debug
 2017-03-31 13:15:08,272 ERROR ApplicationTests:26 ---- 输出error
+2017-03-31 13:25:24,146  INFO ApplicationTests:48 ---- Starting ApplicationTests on cclouds-PC with PID 10544 (D:\github\spring_boot\Chapter14\target\test-classes started by cclouds in D:\github\spring_boot\Chapter14)
+2017-03-31 13:25:24,147  INFO ApplicationTests:670 ---- The following profiles are active: dev
+2017-03-31 13:25:24,996  INFO ApplicationTests:57 ---- Started ApplicationTests in 1.088 seconds (JVM running for 1.539)
+2017-03-31 13:25:25,002  INFO ApplicationTests:24 ---- 输出info
+2017-03-31 13:25:25,002 ERROR ApplicationTests:26 ---- 输出error

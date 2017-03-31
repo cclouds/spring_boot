@@ -7,7 +7,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /**
- * Description:Spring Boot使用log4j记录日志
+ * Description:Spring Boot使用log4j记录日志已经多环境日志级别控制
  *
  * @author cclouds
  * @Date Create on 2017/3/30
