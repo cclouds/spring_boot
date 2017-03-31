@@ -1,0 +1,7 @@
+2017-03-31 13:15:07,581  INFO ApplicationTests:48 ---- Starting ApplicationTests on cclouds-PC with PID 5492 (D:\github\spring_boot\Chapter14\target\test-classes started by cclouds in D:\github\spring_boot\Chapter14)
+2017-03-31 13:15:07,581 DEBUG ApplicationTests:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2017-03-31 13:15:07,582  INFO ApplicationTests:666 ---- No active profile set, falling back to default profiles: default
+2017-03-31 13:15:08,266  INFO ApplicationTests:57 ---- Started ApplicationTests in 1.058 seconds (JVM running for 2.26)
+2017-03-31 13:15:08,271  INFO ApplicationTests:24 ---- 输出info
+2017-03-31 13:15:08,272 DEBUG ApplicationTests:25 ---- 输出debug
+2017-03-31 13:15:08,272 ERROR ApplicationTests:26 ---- 输出error
