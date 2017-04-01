@@ -9,7 +9,7 @@ import org.apache.log4j.AppenderSkeleton;
 import org.apache.log4j.spi.LoggingEvent;
 
 /**
- * Description:Spring Boot使用log4j实现http请求日志入mongodb
+ * Description:Spring Boot使用log4j实现http请求日志写入mongodb
  *
  * @author cclouds
  * @Date Create on 2017/4/01

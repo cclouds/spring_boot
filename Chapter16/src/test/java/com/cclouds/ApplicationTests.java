@@ -7,7 +7,7 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 /**
- * Description:Spring Boot使用log4j实现http请求日志入mongodb
+ * Description:Spring Boot使用log4j实现http请求日志写入mongodb
  *
  * @author cclouds
  * @Date Create on 2017/4/01
