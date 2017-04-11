@@ -1,6 +1,5 @@
 package com.cclouds.domain;
 
-import com.cclouds.domain.User;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.CachePut;
 import org.springframework.cache.annotation.Cacheable;

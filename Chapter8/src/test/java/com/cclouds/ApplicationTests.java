@@ -18,6 +18,8 @@ import java.util.Map;
 
 /**
  * Description:Spring Boot整合Mybatis
+ * 如果@Rollback(false)那就不会自动回滚
+ *
  *
  * @author cclouds
  * @Date Create on 2017/3/29
@@ -34,6 +36,7 @@ public class ApplicationTests {
 
     @Test
     @Rollback
+    //@Rollback(false)
     public void findByName() throws Exception {
         // insert一条数据，并select出来验证
         userMapper.insert("AAA", 20);
