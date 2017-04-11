@@ -41,7 +41,7 @@ public class ApplicationTests {
         User u2 = userRepository.findByName("AAA");
         System.out.println("第二次查询：" + u2.getAge());
 
-        u1.setAge(20);
+        u1.setAge(30);
         userRepository.save(u1);
         User u3 = userRepository.findByName("AAA");
         System.out.println("第三次查询：" + u3.getAge());
