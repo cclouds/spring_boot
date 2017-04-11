@@ -18,7 +18,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 public class ApplicationTests {
 
 	private Logger logger = Logger.getLogger(getClass());
-	
+
 	@Test
 	public void test() throws Exception {
 		logger.info("输出info");
